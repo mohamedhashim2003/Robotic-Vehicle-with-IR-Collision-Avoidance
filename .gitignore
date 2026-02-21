@@ -1,0 +1,11 @@
+# Arduino IDE build folders
+build/
+*.elf
+*.eep
+*.hex
+*.bin
+
+# Temporary and backup files
+*~
+*.bak
+*.tmp
